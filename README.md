@@ -7,7 +7,7 @@ PIC normal and pneumonia
 
 This project is important for healthcare professionals and patients who need to get the right diagnosis quickly. Doctors like radiologists and ophthalmologists can use the deep learning model to help them diagnose different medical conditions using medical images. Accurate diagnoses help patients get the right treatment and have better health.
 PNEUMONIA
-![Alt text](C:\Users\DavidKamiti\Downloads\1007c7782191564c9999fd44386cf42c.jpg)
+< img src = "C:\Users\DavidKamiti\Downloads\1007c7782191564c9999fd44386cf42c.jpg"
 NORMAL
 ![Alt text](C:\Users\DavidKamiti\Downloads\84dff927d19389f5795a792a195790af.jpg)
 
