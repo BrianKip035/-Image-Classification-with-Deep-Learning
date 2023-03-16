@@ -8,3 +8,4 @@
 > 4. Experiment with different optimization algorithms, learning rates, and batch sizes to improve the speed and stability of model training.
 > 5. Evaluate the model's performance using accuracy, precision, recall, and F1 score.
 > 6
+b
