@@ -15,3 +15,4 @@ NORMAL
 Based on the training results, the VGG16 model achieved an accuracy of approximately 74% on the validation set.
 The recall score for the pneumonia class was consistently at 100%, which indicates that the model was able to correctly identify all instances of pneumonia in the validation set.
 the loss values for the model were decreasing across epochs, which indicates that the model was learning and improving over time.
+f
